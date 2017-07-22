@@ -1,4 +1,6 @@
-# CourseLibrary
+# AngularRedux
+
+This is a demo application using Redux to manage state in an Angular 2 SPA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 
